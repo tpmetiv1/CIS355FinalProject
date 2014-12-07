@@ -151,9 +151,9 @@
 	{
 		// Assign database parameters
 		$hostname = "localhost";
-		$username = "tyler";
-		$password = "poop";
-		$dbname = "project13";
+		$username = "student";
+		$password = "learn";
+		$dbname = "lesson01";
 		$usertable = $table;
 		
 		// Create new db object
